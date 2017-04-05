@@ -1,3 +1,5 @@
+#find links and titles from bloomberg html code
+
 from bs4 import BeautifulSoup
 import urllib2
 from collections import defaultdict

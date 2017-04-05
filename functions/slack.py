@@ -1,3 +1,4 @@
+## Run this on the local machine
 ##Author: Linda Liu 
 import sys
 sys.path.append('/Users/linda/path/') 

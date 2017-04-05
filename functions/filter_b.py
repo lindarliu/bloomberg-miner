@@ -1,3 +1,4 @@
+#filter news with certain keywords 
 import get_result
 
 def filter_bloomberg():

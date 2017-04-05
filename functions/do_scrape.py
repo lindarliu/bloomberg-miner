@@ -1,3 +1,5 @@
+#This will be run on server
+#scrape data from bloomberg and post it on slack
 from slackclient import SlackClient
 import filter_b
 import sys
